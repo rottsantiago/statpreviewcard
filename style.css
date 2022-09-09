@@ -117,17 +117,20 @@ ul li span {
 @media (min-width: 376px) {
 
     main {
+        border-radius: 10px;
         flex-direction: row;
         width: 1110px;
         height: 450px;
     }
 
     picture {
+        border-radius: 0 0 10px 10px;
         width: 540px;
         height: 450px;
     }
 
     img {
+        border-radius: 0 0 10px 10px;
         width: inherit;
         height: inherit;
     }
