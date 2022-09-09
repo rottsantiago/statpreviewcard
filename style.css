@@ -110,7 +110,7 @@ ul li span {
     display: block;
 }
 
-.attribution a {
+.attribution a, .attribution {
     color: var(--SlightlyTransparentWhiteHeadings);
 }
 
